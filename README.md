@@ -1,1 +1,1 @@
-# Detect-Precursor-Earthquake
+# Detect-Precursor-Earthquaks
