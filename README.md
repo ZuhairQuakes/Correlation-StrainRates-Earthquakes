@@ -1,6 +1,6 @@
 # Correlation Analysis of Strain Rates and Seismicity
 
-This project demonstrates advanced geospatial data analysis by correlating strain rates with seismicity patterns to reveal insights into tectonic behavior. It incorporates cutting-edge geospatial libraries and statistical methodologies to process and visualize data.
+This project demonstrates advanced geospatial data analysis by correlating strain rates with seismicity patterns to reveal insights into the tectonic behaviour of the Sagaing fault in Myanmar. It incorporates cutting-edge geospatial libraries and statistical methodologies to process and visualize data.
 
 ## Key Features
 - **Data Integration**: Analyzed strain rate data (NetCDF format) and seismic event catalogs (CSV format) using Python libraries such as `netCDF4`, `Pandas`, and `Geopandas`.
