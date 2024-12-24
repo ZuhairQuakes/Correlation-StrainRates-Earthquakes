@@ -17,3 +17,32 @@ This project provides a robust framework for geoscientists and data scientists t
 - **Libraries**: `netCDF4`, `Pandas`, `Geopandas`, `Cartopy`, `Scipy`, `Matplotlib`
 - **Data Formats**: NetCDF, CSV, Shapefiles, KML
 - **Geospatial Tools**: Fault segmentation, strain rate interpolation, and seismicity overlay
+  
+----------------
+
+## Figures
+
+**Figure 1**: Map of the study area
+
+![Map](images/study-area.png "Map")
+
+This map visualizes historical earthquakes and tectonic features in Myanmar, highlighting seismicity along the Sagaing Fault. Red stars mark major earthquakes (M > 7.0), while orange circles represent shallow seismicity (M > 4.0). Focal mechanisms (beachballs) indicate faulting styles, and black lines delineate geological faults, with bold lines emphasizing the Sagaing Fault system. Key geospatial layers include SRTM topography, GPS station locations (blue triangles), and urban centers (cyan squares). The dashed box outlines the study area, integrating seismic, tectonic, and geospatial insights for hazard assessment.
+
+--------
+
+**Figure 2**: Spatial Correlation of Maximum Shear Strain and Earthquake Distribution Along the Sagaing Fault
+
+![Gridding](images/gridding.png "Gridding")
+
+This visualization demonstrates the spatial relationship between tectonic strain and seismicity, providing insights into fault activity and seismic hazard zones. It combines strain modeling and earthquake data for geospatial analysis in hazard assessment.
+
+------------
+
+**Figure 3**: Temporal Evolution of Strain rates and Seismicity Distribution Along the Sagaing Fault, Myanmar
+
+![Correlation](images/correlation.png "Correlation")
+
+This plot highlights how strain rates (black curve) and seismicity accumulate across grid cells over time and identifies temporal shifts in their spatial distribution, offering insights into evolving seismic hazard patterns along the Sagaing Fault.
+
+
+
