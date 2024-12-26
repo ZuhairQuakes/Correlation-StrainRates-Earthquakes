@@ -1,6 +1,6 @@
-# Correlation Analysis of Strain Rates and Seismicity
+# Mapping Hotspots for Damaging Earthquakes in Myanmar
 
-This analysis helps identify regions where disastrous earthquakes may occur in future. It demonstrates advanced geospatial data analysis by correlating strain rates (*an indicator for stress accumulation within the Earth leading to earthquakes*) with seismicity patterns to reveal insights into the tectonic behaviour of the Sagaing fault in Myanmar. It incorporates cutting-edge geospatial libraries and statistical methodologies to process and visualize data.
+This analysis helps identify regions where disastrous earthquakes may occur in future by correlating strain rates (*an indicator for stress accumulation within the Earth leading to earthquakes*) with seismicity patterns that reveal insights into the tectonic behaviour of the Sagaing fault in Myanmar. It incorporates cutting-edge geospatial libraries and statistical methodologies to process and visualize data.
 
 ## Impact
 This project provides a robust framework for geoscientists and data scientists to analyze strain rate-seismicity relationships, aiding in tectonic studies, seismic hazard assessment, and infrastructure planning in earthquake-prone regions.
